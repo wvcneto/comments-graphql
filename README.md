@@ -23,7 +23,7 @@
 
 1. Clone this repository;
 2. Enter in the folder and install the dependencies `cd server && yarn`;
-3. Rename the file `.env.example` para `.env`
+3. Rename the file `.env.example` to `.env`
 4. Run `yarn dev:server` to start the server.
 
 
